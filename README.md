@@ -1,0 +1,2 @@
+# Spookython
+Spooky hackathon
